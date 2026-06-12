@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daksh Rana
 
-🚀 Aspiring Full-Stack Developer | MERN Stack | C++ Programmer  
+🚀 Aspiring Full-Stack Developer | MERN Stack | Java Programmer  
 🎓 Student at **Chitkara University**  
 💡 Problem Solver | Hackathon & Codethon Participant  
 
@@ -9,10 +9,10 @@
 ## 🧑‍💻 About Me
 
 I'm a passionate developer who loves building **real-world applications** using modern web technologies.  
-From **C++ logic building** to **full-stack MERN projects**, I enjoy turning ideas into working products.
+From **Java logic building** to **full-stack MERN projects**, I enjoy turning ideas into working products.
 
 - 🔭 Currently working on **full-stack MERN applications**
-- 🌱 Improving **DSA, C++, and system-level logic**
+- 🌱 Improving **DSA, Java, and system-level logic**
 - 🏆 Participant in **SIH 2025** & multiple **Codethons**
 - 🎯 Goal: Become a **professional freelance & full-stack developer**
 
@@ -23,7 +23,8 @@ From **C++ logic building** to **full-stack MERN projects**, I enjoy turning ide
 ### 💻 Programming Languages
 - C / C++
 - JavaScript (ES6+)
-
+- Java
+  
 ### 🌐 Frontend
 - HTML5
 - CSS3
